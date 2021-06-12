@@ -1,5 +1,5 @@
 Hi There! My name is Rodrigo!
-I am currently learning Typescript and Elixir.
+I am currently learning Next JS.
 
 [![Linkedin](https://img.shields.io/badge/-rodrigodmpa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-demetrio-palma-671591133/)](https://www.linkedin.com/in/rodrigo-demetrio-palma-671591133/)
 [![Gmail](https://img.shields.io/badge/-rodrigo.demetrio.palma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.demetrio.palma@gmail.com)](mailto:rodrigo.demetrio.palma@gmail.com) 
